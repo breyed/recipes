@@ -12,7 +12,6 @@ students = [
 	('Noah', 'To Arms', 'indigo'),
 	('Brenden', 'Reveille', 'green'),
 	('Matthew', 'Assembly', 'blue'),
-	('Alayna', 'To the Colors', 'pink'),
 	('Lucas', 'First Call', 'violet'),
 	('Samantha', 'Mail Call', 'black'),
 	('Brennan', 'Mess Call', 'brown')]

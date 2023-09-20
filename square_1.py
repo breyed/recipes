@@ -3,6 +3,7 @@
 
 
 # Import everything from the turtle module.
+from turtle import *
 
 # Use a blue pen.
 

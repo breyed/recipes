@@ -38,7 +38,7 @@ def draw_house(height):
 # Use a pen with width 5.
 width(5)
 
-# Turn the turtle 90 degrees to the left (so that it starts out pointing up).
+# Turn the turtle 90 degrees to the left.
 left(90)
 
 # Draw a house with a height of 40.

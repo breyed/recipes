@@ -34,6 +34,8 @@ def set_random_pen_color():
 
 # Use a pen with width 5.
 
+# Turn the turtle 90 degrees to the left (so that it starts out pointing up).
+
 # Do the following 5 times:
 
 	# Tell the turtle to use a random color.
