@@ -1,4 +1,4 @@
-# Draw a city landscape with a few simple houses.
+# Draw a city landscape with randomly colored houses.
 # Random methods: https://docs.python.org/3/library/random.html
 # Turtle methods: https://docs.python.org/3/library/turtle.html#turtle-methods
 
