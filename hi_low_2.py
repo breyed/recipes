@@ -1,21 +1,24 @@
 # A number guessing game with a user-specified range.
 
 
-# Import the random module.
+# Import the random and math modules.
+import random
+import math
 
-# Tell the user to enter the maximum number.
 
-# Read the maximum number from the user.
+# Prompt the user for the maximum number and read it.
+max_target = int(input("What should the highest possible number be? "))
 
-# Choose a random number between 1 and the maximum.
+# Choose a random number from 1 and the maximum.
 
-# Calculate the number of guesses to give the user as log(max) / log(2) + 1.
+# Calculate the number of guesses to give the user.
+max_guesses = int(math.log2(max_target) + 1)
 
 # Do the following for the number of times the user can guess:
 
 	# Tell the user how many guesses he has left.
 
-	# # Prompt the user for a number and read it. This is his guess.
+	# Prompt the user for a number and read it. This is his guess.
 
 	# If the guess is correct:
 
