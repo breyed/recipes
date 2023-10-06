@@ -3,15 +3,15 @@
 import random
 
 # Choose a random number between 1 and 100.
-joe = random.randint(1, 100)
+target = random.randint(1, 100)
 
 # Let the user guess 8 times.
 for _ in range(8):
-	guess = int(input("What if your guess? "))
-	if guess == joe:
+	guess = int(input("What is your guess? "))
+	if guess == target:
 		print("Congratulations, you won!")
 		exit()
-	elif guess > joe:
+	elif guess > target:
 		print("Too high.")
 	else:
 		print("Too low.")
