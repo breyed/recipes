@@ -1,7 +1,8 @@
 # Displays bubbles where you click.
 
 # Before you begin, install the guizero package by entering the following command into the terminal:
-# pip3 install guizero
+# Windows: py -m pip install guizero
+# macOS: pip3 install guizero
 
 # guizero documentation: https://lawsie.github.io/guizero
 
