@@ -1,15 +1,12 @@
 # Displays bubbles where you click.
 
 # Before you begin, install the guizero package by entering the following command into the terminal:
-# Windows: py -m pip install guizero
-# macOS: pip3 install guizero
+# pip3 install guizero
 
 # guizero documentation: https://lawsie.github.io/guizero
 
 
 # Import App and Drawing from the guizero module. Import the random module.
-from guizero import App, Drawing
-import random
 
 
 # Create variables to represent the application and a drawing that fills the application.
